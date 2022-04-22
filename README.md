@@ -9,4 +9,5 @@ These project are broken down into a few categories:
 - Quantitative Biology and Bioinformatics
 
 Also check out my Tableau Public:
-[Tableau](https://public.tableau.com/app/profile/david.lewus)
+
+[David's Tableau Public Profile](https://public.tableau.com/app/profile/david.lewus)
