@@ -1,3 +1,6 @@
+# Medical Data Visualizer
+This is a project from [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/). Below are their instructions for the assignment.
+
 ### Assignment
 
 In this project, you will visualize and make calculations from medical examination data using matplotlib, seaborn, and pandas. The dataset values were collected during medical examinations.
