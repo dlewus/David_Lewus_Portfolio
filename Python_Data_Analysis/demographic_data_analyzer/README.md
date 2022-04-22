@@ -1,6 +1,7 @@
-### Assignment
-
 # Demographic Data Analyzer
+This is a project from [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/). Below are their instructions for the assignment.
+
+### Assignment
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
