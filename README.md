@@ -7,7 +7,3 @@ These project are broken down into a few categories:
 - SQL
 - Cryptocurrency
 - Quantitative Biology and Bioinformatics
-
-Also check out my Tableau Public:
-
-[David's Tableau Public Profile](https://public.tableau.com/app/profile/david.lewus)
