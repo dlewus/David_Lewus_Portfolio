@@ -1,0 +1,19 @@
+{
+    "wallet": {
+        "address": "your 0x wallet address",
+        "privateKey": "your private key"
+    },
+
+    "pollingInterval": "60000",
+
+    "heroIDs": [1, 2, 3],
+
+    "questContract": "0x5100Bd31b822371108A0f63DCFb6594b9919Eaf4",
+    "heroContract": "0x5f753dcdf9b1ad9aabc1346614d1f4746fd6ce5c",
+    "JEWEL": "0x72Cb10C6bfA5624dD07Ef608027E366bd690048F",
+    "WBTC": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9",
+    "JEWEL_WBTC_LP": "0x0acce15d05b4ba4dbedfd7afd51ea4fa1592f75e",
+    "UniswapRouter": "0x24ad62502d1C652Cc7684081169D04896aC20f30",
+    "MasterGardener": "0xDB30643c71aC9e2122cA0341ED77d09D5f99F924",
+    "_ref": "0x0000000000000000000000000000000000000000"
+}
