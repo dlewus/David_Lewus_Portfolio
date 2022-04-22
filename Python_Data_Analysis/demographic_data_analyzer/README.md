@@ -1,5 +1,5 @@
 # Demographic Data Analyzer
-This is a project from [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/). Below are their instructions for the assignment
+This is a project from [freeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/). Below are their instructions for the assignment.
 
 ### Assignment
 
