@@ -163,7 +163,6 @@ def startQuest(heroID):
         # set up transaction to start mining quest with hero with max stamina
         nonce = provider.eth.getTransactionCount(wallet_address)
 
-        # UPDATE THIS ONCE JEWEL MINING IS RELEASED
         tx = questContract.functions.startQuest([heroID], config['jewelMiningContract'], 1).buildTransaction({
             'gas': 2000000,
             'gasPrice': provider.toWei('35', 'gwei'),
