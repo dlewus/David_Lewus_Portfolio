@@ -13,9 +13,6 @@ Adjust sleep times if depending on how fast selenium webdriver loads.
 
 This program only works if you already have an EVM compatible wallet
 secret phrase.
-
-The password in the config file is a dummy password and won't be saved
-after the session is ended.
 '''
 
 from selenium import webdriver
@@ -51,8 +48,8 @@ def start():
     driver.find_element_by_xpath('//button[text()="No Thanks"]').click()
     inputs = driver.find_elements_by_xpath('//input')
     inputs[0].send_keys(metamask_config['secret'])
-    inputs[1].send_keys(metamask_config['pw'])
-    inputs[2].send_keys(metamask_config['pw'])
+    inputs[1].send_keys('password')
+    inputs[2].send_keys('password')
     driver.find_element_by_css_selector('.first-time-flow__terms').click()
     driver.find_element_by_xpath('//button[text()="Import"]').click()
     sleep(10)
