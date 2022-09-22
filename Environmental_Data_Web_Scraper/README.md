@@ -1,4 +1,4 @@
-# Weather Data Web Scraping
+# Environmental Data Web Scraper
 - Developed code to extract environmental data from cloud hosted
 weather station using BeautifulSoup and selenium webdriver.
 - Transformed data by changing timestep, creating bi-weekly
