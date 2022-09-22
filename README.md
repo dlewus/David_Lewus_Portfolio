@@ -11,3 +11,6 @@ The other projects are broken down into a few categories:
 - PhD Research
 - Quantitative Biology and Bioinformatics
 - SQL
+
+To be added soon:
+- Cryptocurrency Price Trend Detection
