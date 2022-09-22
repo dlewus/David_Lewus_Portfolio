@@ -1,10 +1,13 @@
 # David_Lewus_Portfolio
 A portfolio of my Python, SQL, and C++ projects
 
-These project are broken down into a few categories:
+A few projects are highlighted up front:
+- Environmental Data Web Scraper
+- House Pricing Model
+- Quantitative Biology and Bioinformatics
+
+The other projects are broken down into a few categories:
 - Cryptocurrency
-- Machine Learning
 - PhD Research
-- Python Data Analysis
 - Quantitative Biology and Bioinformatics
 - SQL
