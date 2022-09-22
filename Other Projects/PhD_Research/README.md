@@ -5,6 +5,3 @@ Contains C++ code used to customize my computational fluid dynamics (CFD) models
 
 ### Output Formatting
 Contains code to format the output from my CFD models and send it to excel
-
-### Weather Data Web Scraping
-Contains code to scrape weather data from the web as input for my CFD models. Additionally there is code to change the timestep, compile the data, and create monthly averages
