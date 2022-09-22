@@ -1,7 +1,7 @@
 # House Pricing Model
 - Tested multiple machine learning models (logistic regression,
 gradient boosting regression, deep neural network) to predict
-house sale price, with the most accurate model having a R^2
+house sale price, with the most accurate model having a R^2^
 value of 0.9034.
 - Utilized exploratory data analysis and visualization to evaluate the
 quality of data used and observe trends.
