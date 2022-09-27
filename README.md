@@ -2,6 +2,7 @@
 A portfolio of my Python, SQL, and C++ projects
 
 A few projects are highlighted up front:
+- Cryptocurrency Price Trend Detection
 - Environmental Data Web Scraper
 - House Pricing Model
 - Quantitative Biology and Bioinformatics
@@ -11,6 +12,3 @@ The other projects are broken down into a few categories:
 - PhD Research
 - Quantitative Biology and Bioinformatics
 - SQL
-
-To be added soon:
-- Cryptocurrency Price Trend Detection
