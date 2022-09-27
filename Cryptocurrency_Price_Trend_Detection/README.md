@@ -12,6 +12,7 @@ from API, analyzed data with the RNN to predict trend, created
 smart contract calls to place trading orders on blockchain hosted
 trading platform, and sent trading signals and order submission
 details to a Telegram group.
+- Two files are intentionally removed to protect intellectual property (indicators.py and orderbook.py)
 
 The jupyter notebook Cryptocurrency_Price_Trend_Detection_Recurrent_Neural_Network.ipynb shows the creation and evaluation of the Long Short Term Memory (LSTM) Recurrent Neural Network.
 
