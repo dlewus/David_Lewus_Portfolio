@@ -14,7 +14,7 @@ trading platform, and sent trading signals and order submission
 details to a Telegram group.
 - Two files are intentionally omitted to protect intellectual property (indicators.py and orderbook.py)
 
-The jupyter notebook Cryptocurrency_Price_Trend_Detection_Recurrent_Neural_Network.ipynb shows the creation and evaluation of the Long Short Term Memory (LSTM) Recurrent Neural Network.
+The jupyter notebook Cryptocurrency_Price_Trend_Detection_RNN.ipynb shows the creation and evaluation of the Long Short Term Memory (LSTM) Recurrent Neural Network.
 
 Note: Project outline links will only work if you download the notebook. They won't work in GitHub or Google Colab.
 
