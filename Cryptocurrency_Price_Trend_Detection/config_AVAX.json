@@ -1,0 +1,15 @@
+{
+    "wallet": {
+        "address": "Your wallet address",
+        "privateKey": "Your private key"
+    },
+
+    "ReaderContract": "0x67b789D48c926006F5132BFCe4e976F0A7A63d5D",
+    "VaultContract": "0x9ab2De34A33fB459b538c43f251eB825645e8595",
+    "PositionRouter": "0x195256074192170d1530527abC9943759c7167d8",
+    "Router": "0x5F719c2F1095F7B9fc68a68e35B51194f4b6abe8",
+    "JoeRouter": "0x60aE616a2155Ee3d9A68541Ba4544862310933d4",
+    "ETH_address":"0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "USDC_address":"0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "AVAX_address":"0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
+}
