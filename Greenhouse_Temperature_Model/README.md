@@ -1,5 +1,5 @@
 # Greenhouse Temperature Model
-- Used a LSTM recurrent neural network to predict the inside temperature of a greenhouse using the outside weather
+- Used a LSTM recurrent neural network to predict the inside temperature of a greenhouse using the outside weather, with a root mean square error of &plusmn;1.164 &deg;C
 - Cleaned and compiled greenhouse and weather data
 - Utilized exploratory data analysis and visualization to evaluate the quality of data used and observe trends.
 
